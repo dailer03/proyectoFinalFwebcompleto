@@ -1,4 +1,10 @@
 proyecto final f web complecto este proyecto tiene las siguientes caracteristicas 8  vistas que son 
-index.html es una vista que da un buen aspecto al proyecto donde se ve da una entrada a lo que se dedica nuestra empresa desde esa vista redireciona a registro de productos tambien tiene un acerca de donde puedes profundisar mas detalles a lo que se dedica la empresa buscador.html en esta vista puedes realizar la busqueda de productos que se encuentra en nuestra base de datos about.html es donde vas aquirir la informacion de que es nuestra empresa como tal products.htmml es una vistas donde vas a ver los productos registrado shop.html es nuestra vista de productos en donde se muestran 500 de nuestro productos con pagincion de tres pginas shopsingle.html es la vista donde se realizara el registro del producto shopsingle1 esta vista es un pilar en nuestro proyecto por que hay se te da la indicacion de como realiazar un registro correcto
-
+Vista Principal: Esta es la página de inicio y proporciona una visión general de la tienda. Es el punto de partida para los usuarios y debe ser atractiva y fácil de navegar.
+Vista de Registro de Productos: Permite a los administradores de la tienda agregar nuevos productos al catálogo, asegurando que la oferta de productos esté siempre actualizada.
+Vista de Productos Registrados: Muestra una lista de todos los productos que han sido registrados, facilitando la gestión del inventario.
+Vista de Indicaciones: Ofrece información y guía a los usuarios sobre cómo utilizar la aplicación, mejorar la experiencia del usuario y resolver dudas comunes.
+Vista de Productos: Es la página donde los usuarios pueden explorar los zapatos disponibles en la tienda, con descripciones detalladas y opciones de filtrado.
+Buscador de Productos: Una herramienta esencial que permite a los usuarios buscar productos específicos mediante palabras clave, haciendo la navegación más eficiente.
+Vista de Acerca de: Proporciona información sobre la tienda, su historia, misión y visión, generando confianza y credibilidad entre los usuarios.
+Lista de Resultados: Muestra los resultados de las búsquedas realizadas por los usuarios, permitiéndoles encontrar rápidamente los productos que desean.
 tienes curiosida de que realiza este proyecto te invito a que lo descargues asi vera detalladamente sus funcionalidades
